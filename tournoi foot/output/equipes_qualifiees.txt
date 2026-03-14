@@ -1,9 +1,0 @@
-=== Equipes qualifiées pour les phases finales ===
-Groupe 1 : Premier: Marseille, Second: Lyon
-Groupe 2 : Premier: Lille, Second: Saint-Etienne
-Groupe 3 : Premier: Reims, Second: Nantes
-Groupe 4 : Premier: Lens, Second: Montpellier
-Groupe 5 : Premier: Dijon, Second: Metz
-Groupe 6 : Premier: Le Havre, Second: Nîmes
-Groupe 7 : Premier: Troyes, Second: Grenoble
-Groupe 8 : Premier: Amiens, Second: Chamois Niortais
