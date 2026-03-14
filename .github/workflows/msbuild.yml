@@ -8,7 +8,6 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -19,7 +18,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y build-essential
 
       - name: Compile program
-        run: gcc football_tournament.c -o tournament
+        run: gcc src/*.c -o tournament
 
       - name: Run program
         run: ./tournament
